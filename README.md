@@ -3,7 +3,7 @@
 **`Junior Software Engineer (FrontEnd / Semi-BackEnd)`**
 
 <p>I'm currently in process of getting my Bachelor's degree in Telematics, which is combination of Electrotechnics and Software Engineering, but I'm much more interested in Software Engineering part.</p>
-<p>Except of programming, my other interests are video games so I'm trying to dive a little into game develpement in which I'm in a process of learning basics of Godot game engine and creating my first little game</p>
+<p>Except of programming, my other interests are video games so I'm trying to dive a little into game develpement in which I'm in a process of learning basics of Godot game engine and creating my first little game.</p>
 <p>I'm curently working as a Frontend Developer at <a href="https://bid.agency/en">bid.</a></p>
 
 ---
